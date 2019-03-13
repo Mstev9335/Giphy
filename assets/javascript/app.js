@@ -1,5 +1,5 @@
 // Initial array of animals
-var topics = ["cat", "dog", "red panda", "goldfish", "skunk", "bird"];
+var topics = ["cat", "dog", "red panda", "goldfish", "skunk", "bird", "moose", "squirrel", "crab", "wombat"];
 
 // displayAnimalInfo function re-renders the HTML to display the appropriate content
 function displayAnimalInfo() {
