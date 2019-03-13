@@ -9,11 +9,17 @@ body{
     background-image: url(../images/background.png);
 }
 
+p{
+    color: white;
+    font-size: 16px;
+}
+
 h1{
     color: white;
     font-size: 40px;
 }
 
+/* animal buttons */
 .animal-btn{
     background-color: blue;
     color: white;
