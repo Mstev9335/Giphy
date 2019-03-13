@@ -24,8 +24,9 @@ h1{
 #add-animal{
     background-color: blue;
     color: white;
+    font-size: 25px;
     height: 45px;
-    width: 45px;
+    width: 75px;
 }
 
 #animal-input{
