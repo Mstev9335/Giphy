@@ -99,11 +99,23 @@ $("#add-animal").on("click", function (event) {
   // This line grabs the input from the textbox
   var topic = $("#animal-input").val().trim();
 
-  // Adding animal from the textbox to our array
-  topics.push(topic);
+  // checks if there is text in the input field
+if(topic!=""){
 
-  // Calling renderButtons which handles the processing of our animal array
+ // Adding animal from the textbox to our array
+ topics.push(topic);
+
+ // Calling renderButtons which handles the processing of our animal array
+ renderButtons();
+
+//  clears textbox 
+ $("#animal-input").val("");
+}
+else{
+
   renderButtons();
+}
+ 
 });
 
 // Adding a click event listener to all elements with a class of "animal-btn"

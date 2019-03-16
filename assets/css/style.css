@@ -9,12 +9,14 @@ body{
     background-image: url(../images/background.png);
 }
 
+/* ratings */
 p{
     color: white;
     font-size: 16px;
 }
 
 h1{
+    margin-left: 20px;
     color: white;
     font-size: 40px;
 }
@@ -24,10 +26,11 @@ h1{
     background-color: blue;
     color: white;
     font-size: 25px;
-    /* width: 75px; */
+   
     height: 45px;
 }
 
+/* add animal button */
 #add-animal{
     background-color: blue;
     color: white;
@@ -45,6 +48,11 @@ h1{
     font-size: 20px;
 }
 
+/* gifs */
 .image{
-    /* float: left; */
+    margin: 5px;
+    float: left;
+    height: 150px;
+    width:150px;
 }
+
