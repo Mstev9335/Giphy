@@ -6,4 +6,11 @@ also add a new animal button to the page by entering the animal into the textbox
 new animal button will then display 10 gifs when clicked along with the functionality to make them still or animated
 by clicking.
 
+#Technologies used:
+* HTML
+* CSS
+* Javascript
+* Giphy API
+
 Link: https://mstev9335.github.io/Giphy/
+
