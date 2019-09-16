@@ -12,8 +12,11 @@ by clicking.
 * Javascript
 * Giphy API
 
-## App starts
+### App starts
 ![start](/assets/images/giphy1.png)
+
+### After the user adds an additional animal
+![add](/assets/images/giphy2.png)
 
 
 Link: https://mstev9335.github.io/Giphy/
