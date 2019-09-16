@@ -12,5 +12,9 @@ by clicking.
 * Javascript
 * Giphy API
 
+## App starts
+![start](/assets/images/giphy1.png)
+
+
 Link: https://mstev9335.github.io/Giphy/
 
